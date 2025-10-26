@@ -119,10 +119,12 @@ When I’m not coding, I love reading books, exploring new ideas, and learning a
 
 
 ## ⚡ Currently Exploring  
+- 🧠 Data Structures & Algorithms (Problem Solving & Optimization)  
 - 🚀 Advanced React Patterns & Performance Optimization  
-- 🤖 AI & Machine Learning for social applications  
+- 🤖 AI & Machine Learning for Social Applications  
 - ☁️ Cloud Deployment (Firebase, Vercel, Render)  
-- 🔒 Secure authentication & backend best practices  
+- 🔒 Secure Authentication & Backend Best Practices  
+
 
 ---
 
