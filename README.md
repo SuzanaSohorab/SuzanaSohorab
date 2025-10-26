@@ -1,4 +1,6 @@
-# 👋 Hello there, I'm **Suzana Sohorab Shayli**
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQGyUC6ceZ78qQ/profile-displaybackgroundimage-shrink_350_1400/B4EZcr3Q1fH0AY-/0/1748787597671?e=1762992000&v=beta&t=Fuaz26LY6GmWO1xOpEJAI8HSpxggvTtAVy_p2sFPtRs)
+
+# Hello there, I'm **Suzana Sohorab Shayli**
 
 Welcome to my GitHub profile!  
 I'm a passionate **Computer Science and Engineering student** from Bangladesh, deeply interested in **Full Stack Web Development**, **Artificial Intelligence (AI)**, and the **Internet of Things (IoT)**.  
